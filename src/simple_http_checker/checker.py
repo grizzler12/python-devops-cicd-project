@@ -4,7 +4,7 @@ from typing import Collection
 
 logger = logging.getLogger(__name__)
 
-API_TOKEN = "ghp_ThisLooksLikeAToken" # to be flagged by bandit, test purpose 
+API_TOKEN = "ghp_ThisLooksLikeAToken"  # to be flagged by bandit, test purpose
 
 
 def check_urls(urls: Collection[str], timeout: int = 5) -> dict[str, str]:

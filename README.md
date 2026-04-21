@@ -11,4 +11,3 @@ This repo contains the code for the CI/CD section of Python for DevOps course.
 [] Add test automation - Comprehensive test suite with pytest
 [] Build our Python project - Automated package building
 [] Publish the project to both TestPyPI and PyPI - Automated package publishing on releases
-
