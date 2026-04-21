@@ -34,7 +34,7 @@ def main(urls: Collection[str], timeout: int, verbose: bool):
 
     results = check_urls(urls, timeout)
 
-    click.echo("\n---Results ---")
+    click.echo("\n--- Results ---")
     for url, status in results.items():
         if "OK" in status:
             fg_color = "green"
