@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 def main(urls: Collection[str], timeout: int, verbose: bool):
     if verbose:
         logging.getLogger().setLevel(logging.DEBUG)
-        logger.debug(f"Verbose logging enabled")
+        logger.debug("Verbose logging enabled")
 
     logger.debug(f"Received urls: {urls}")
     logger.debug(f"Received timeout: {timeout}")
