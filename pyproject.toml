@@ -21,3 +21,6 @@ dev = [
 
 [project.scripts]
 check-urls = "simple_http_checker.cli:main"
+
+[tool.ruff]
+line-length = 88
