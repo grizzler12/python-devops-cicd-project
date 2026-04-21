@@ -39,6 +39,6 @@ def main(urls: Collection[str], timeout: int, verbose: bool):
         if "OK" in status:
             fg_color = "green"
         else:
-            fg_color="red"
-        
+            fg_color = "red"
+
         click.secho(f"{url:<40} -> {status}", fg=fg_color)
