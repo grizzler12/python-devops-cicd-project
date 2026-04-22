@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.2 (2026-04-22)
+
+### Bug Fixes
+
+- **python-cicd**: Added missing /
+  ([`260c7fd`](https://github.com/grizzler12/python-devops-cicd-project/commit/260c7fdf74b101af6a6808e941f56811247dc82a))
+
+
 ## v1.1.1 (2026-04-22)
 
 ### Bug Fixes
