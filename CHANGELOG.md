@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.3 (2026-04-22)
+
+### Bug Fixes
+
+- **python-cicd**: Renamed project as in testpypi
+  ([`dba8714`](https://github.com/grizzler12/python-devops-cicd-project/commit/dba8714d7ef2d069505fcdf3c44b33e82ba5e0f1))
+
+
 ## v1.1.2 (2026-04-22)
 
 ### Bug Fixes
