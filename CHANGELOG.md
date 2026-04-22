@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.1 (2026-04-22)
+
+### Bug Fixes
+
+- **python-cicd**: Add corect environment
+  ([`7e613b1`](https://github.com/grizzler12/python-devops-cicd-project/commit/7e613b1a3e1dc74cb9ce3a95109c4cf138705199))
+
+
 ## v1.1.0 (2026-04-22)
 
 ### Features
