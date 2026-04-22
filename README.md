@@ -9,5 +9,5 @@ This repo contains the code for the CI/CD section of Python for DevOps course.
 [X] Add linting (ruff) and format checks (black) - Code quality automation
 [X] Add typing (mypy) and security checks (bandit) - Static analysis and security scanning
 [X] Add test automation - Comprehensive test suite with pytest
-[] Build our Python project - Automated package building
+[X] Build our Python project - Automated package building
 [] Publish the project to both TestPyPI and PyPI - Automated package publishing on releases
